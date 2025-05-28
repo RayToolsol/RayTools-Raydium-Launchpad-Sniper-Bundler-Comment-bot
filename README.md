@@ -17,7 +17,7 @@
   <br />
   A specialized suite of powerful bots designed for sniping, bundling, and promoting tokens on Solana's Raydium LaunchLab.
   <br />
-  Gain speed, efficiency, and strategic advantages.
+  Gain speed, efficiency, and strategic advantages!
 </p>
 
 
